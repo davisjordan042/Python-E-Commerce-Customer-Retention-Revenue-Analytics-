@@ -1,4 +1,4 @@
-# E-Commerce Customer Retention & Revenue Analytics (Python)
+# Python E-Commerce Customer Retention & Revenue Analytics
 
 ## Project Overview
 This project analyzes an ecommerce dataset derived from the Olist platform to generate actionable business insights around customer behavior, revenue growth, retention, and churn. The analysis spans descriptive analytics, predictive modeling, and survival analysis using Python.
